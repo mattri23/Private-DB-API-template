@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Utente\\Desktop\\TestWebApi\\TestWebApi\\wwwroot\\css\\Site.css",
+      "PackagePath": "staticwebassets\\css\\Site.css"
+    },
+    {
+      "Id": "C:\\Users\\Utente\\Desktop\\TestWebApi\\TestWebApi\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Utente\\Desktop\\TestWebApi\\TestWebApi\\wwwroot\\js\\Site.js",
+      "PackagePath": "staticwebassets\\js\\Site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TestWebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TestWebApi.props",
+      "PackagePath": "build\\TestWebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TestWebApi.props",
+      "PackagePath": "buildMultiTargeting\\TestWebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TestWebApi.props",
+      "PackagePath": "buildTransitive\\TestWebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

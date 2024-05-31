@@ -1,2 +1,13 @@
 ﻿body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+input {
+    margin: 10px;
+    color: whitesmoke;
+    background-color: #1C2321;
 }

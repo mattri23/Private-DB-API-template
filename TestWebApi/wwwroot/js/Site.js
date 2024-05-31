@@ -84,4 +84,4 @@ let DeleteDataById = () => {
 }
 
 
-document.addEventListener('DOMContentLoaded', () => {GetDataById();});
+document.addEventListener('DOMContentLoaded', () => {});

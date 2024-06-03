@@ -2994,11 +2994,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Utente\\Desktop\\TestWebApi\\TestWebApi\\TestWebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Utente\\Desktop\\Progetto Libreria\\TestWebApi\\TestWebApi.csproj",
       "projectName": "TestWebApi",
-      "projectPath": "C:\\Users\\Utente\\Desktop\\TestWebApi\\TestWebApi\\TestWebApi.csproj",
+      "projectPath": "C:\\Users\\Utente\\Desktop\\Progetto Libreria\\TestWebApi\\TestWebApi.csproj",
       "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Utente\\Desktop\\TestWebApi\\TestWebApi\\obj\\",
+      "outputPath": "C:\\Users\\Utente\\Desktop\\Progetto Libreria\\TestWebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

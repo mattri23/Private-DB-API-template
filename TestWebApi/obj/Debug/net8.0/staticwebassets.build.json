@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pEUENJgZyC3MRlnASM4tDklMYgKJdngTlI612DbSbJk=",
+  "Hash": "8lNmV2+MfCRUJtFbZKr1GGujSt1iLMPsu7HMWYDJixI=",
   "Source": "TestWebApi",
   "BasePath": "_content/TestWebApi",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TestWebApi\\wwwroot",
       "Source": "TestWebApi",
-      "ContentRoot": "C:\\Users\\Utente\\Desktop\\TestWebApi\\TestWebApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Utente\\Desktop\\Progetto Libreria\\TestWebApi\\wwwroot\\",
       "BasePath": "_content/TestWebApi",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Utente\\Desktop\\TestWebApi\\TestWebApi\\wwwroot\\css\\Site.css",
+      "Identity": "C:\\Users\\Utente\\Desktop\\Progetto Libreria\\TestWebApi\\wwwroot\\css\\Site.css",
       "SourceId": "TestWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Utente\\Desktop\\TestWebApi\\TestWebApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Utente\\Desktop\\Progetto Libreria\\TestWebApi\\wwwroot\\",
       "BasePath": "_content/TestWebApi",
       "RelativePath": "css/Site.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Site.css"
     },
     {
-      "Identity": "C:\\Users\\Utente\\Desktop\\TestWebApi\\TestWebApi\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\Utente\\Desktop\\Progetto Libreria\\TestWebApi\\wwwroot\\index.html",
       "SourceId": "TestWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Utente\\Desktop\\TestWebApi\\TestWebApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Utente\\Desktop\\Progetto Libreria\\TestWebApi\\wwwroot\\",
       "BasePath": "_content/TestWebApi",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Utente\\Desktop\\TestWebApi\\TestWebApi\\wwwroot\\js\\Site.js",
+      "Identity": "C:\\Users\\Utente\\Desktop\\Progetto Libreria\\TestWebApi\\wwwroot\\js\\Site.js",
       "SourceId": "TestWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Utente\\Desktop\\TestWebApi\\TestWebApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Utente\\Desktop\\Progetto Libreria\\TestWebApi\\wwwroot\\",
       "BasePath": "_content/TestWebApi",
       "RelativePath": "js/Site.js",
       "AssetKind": "All",

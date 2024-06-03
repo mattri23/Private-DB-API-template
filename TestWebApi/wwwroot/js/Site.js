@@ -20,9 +20,9 @@ let GetDataById = () => {
 
 let PostData = () => {
     let data = {
-        AddDays: prompt("Enter number of days to add to today's date", 1),
-        TemperatureC: prompt("Enter temperature in Celsius", 25),
-        Summary: prompt("Enter summary", "Sunny")
+        AddDays: document.getElementById("DTAddInput").value,
+        TemperatureC: document.getElementById("GCelciusInput").value,
+        Summary: document.getElementById("SummaryInput").value 
     };
 
     fetch('/weatherforecast', {
@@ -44,10 +44,10 @@ let PostData = () => {
 
 let PutData = () => {
     let data = {
-        Id: prompt("Enter Id of the record to update"),
-        AddDays: prompt("Enter number of days to add to today's date", 1),
-        TemperatureC: prompt("Enter temperature in Celsius", 25),
-        Summary: prompt("Enter summary", "Sunny")
+        Id: document.getElementById("IdInput").value,
+        AddDays: document.getElementById("DTAddInput").value,
+        TemperatureC: document.getElementById("GCelciusInput").value,
+        Summary: document.getElementById("SummaryInput").value 
     };
 
     fetch(`/weatherforecast/${data.Id}`, {

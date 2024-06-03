@@ -1,15 +1,15 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Utente\\Desktop\\TestWebApi\\TestWebApi\\wwwroot\\css\\Site.css",
+      "Id": "C:\\Users\\Utente\\Desktop\\Progetto Libreria\\TestWebApi\\wwwroot\\css\\Site.css",
       "PackagePath": "staticwebassets\\css\\Site.css"
     },
     {
-      "Id": "C:\\Users\\Utente\\Desktop\\TestWebApi\\TestWebApi\\wwwroot\\index.html",
+      "Id": "C:\\Users\\Utente\\Desktop\\Progetto Libreria\\TestWebApi\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\Utente\\Desktop\\TestWebApi\\TestWebApi\\wwwroot\\js\\Site.js",
+      "Id": "C:\\Users\\Utente\\Desktop\\Progetto Libreria\\TestWebApi\\wwwroot\\js\\Site.js",
       "PackagePath": "staticwebassets\\js\\Site.js"
     },
     {

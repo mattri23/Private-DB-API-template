@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BmcpD/30MEBL3ZG+K+71T6X0SZHjgs1TSuL7cgF1VXM7IzOVtXWVryfP9ZOyAj5Tej3B3qu8UHZ8nJTiPm8FqQ==",
+  "dgSpecHash": "iUQlFb06XbgI691e5JopkIPMdoksewS96hzEWFw1AWZB5ejRX/ZFfW8iK77IVOZtvm5toFq1e88GmAlODWoLKA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Utente\\Desktop\\TestWebApi\\TestWebApi\\TestWebApi.csproj",
+  "projectFilePath": "C:\\Users\\Utente\\Desktop\\Progetto Libreria\\TestWebApi\\TestWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Utente\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Utente\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
